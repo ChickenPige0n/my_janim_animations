@@ -1,13 +1,19 @@
 # Janim 动画仓库
 
 ## 初始化：
+如未安装 [uv](https://docs.astral.sh/uv/) ：
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+安装项目依赖：
+
 ```bash
 uv sync
 ```
 
 ## 运行：
 
-安装 janim-toolbox
+安装 [janim-toolbox](https://marketplace.visualstudio.com/items?itemName=jkjkil4.janim-toolbox)
 
 ```bash
 uv run janim run .\btree_visualization\main.py -i
