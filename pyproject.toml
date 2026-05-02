@@ -1,0 +1,9 @@
+[project]
+name = "btree-viz"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "janim[gui]>=4.1.0",
+]
