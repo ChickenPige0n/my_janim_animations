@@ -22,6 +22,6 @@ uv run janim write .\btree_visualization\main.py
 
 ## AI使用历史
 ./github/skills/janim-workflow 存放生成的Janim skill
-./agent_log 存放历史对话内容
+./ai_interaction_log 存放历史对话内容
 
 This README is written by human.
